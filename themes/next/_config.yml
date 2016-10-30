@@ -30,7 +30,7 @@ canonical: true
 menu:
   home: /
   categories: /categories
-  about: /about
+  about: /about.html
   archives: /archives
   tags: /tags
   commonweal: /404.html
@@ -242,7 +242,7 @@ mathjax:
 #baidu_analytics:
 
 # Duoshuo ShortName
-#duoshuo_shortname:
+duoshuo_shortname: jimscx-blog
 
 # Disqus
 #disqus_shortname:
